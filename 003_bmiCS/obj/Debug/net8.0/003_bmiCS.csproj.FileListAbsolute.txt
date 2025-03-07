@@ -1,0 +1,14 @@
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\003_bmiCS\bin\Debug\net8.0\003_bmiCS.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\003_bmiCS\bin\Debug\net8.0\003_bmiCS.deps.json
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\003_bmiCS\bin\Debug\net8.0\003_bmiCS.runtimeconfig.json
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\003_bmiCS\bin\Debug\net8.0\003_bmiCS.dll
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\003_bmiCS\bin\Debug\net8.0\003_bmiCS.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\003_bmiCS\obj\Debug\net8.0\003_bmiCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\003_bmiCS\obj\Debug\net8.0\003_bmiCS.AssemblyInfoInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\003_bmiCS\obj\Debug\net8.0\003_bmiCS.AssemblyInfo.cs
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\003_bmiCS\obj\Debug\net8.0\003_bmiCS.csproj.CoreCompileInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\003_bmiCS\obj\Debug\net8.0\003_bmiCS.dll
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\003_bmiCS\obj\Debug\net8.0\refint\003_bmiCS.dll
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\003_bmiCS\obj\Debug\net8.0\003_bmiCS.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\003_bmiCS\obj\Debug\net8.0\003_bmiCS.genruntimeconfig.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\003_bmiCS\obj\Debug\net8.0\ref\003_bmiCS.dll
