@@ -1,0 +1,10 @@
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\006_Login\bin\Debug\006_Login.exe.config
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\006_Login\bin\Debug\006_Login.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\006_Login\bin\Debug\006_Login.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\006_Login\obj\Debug\006_Login.csproj.AssemblyReference.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\006_Login\obj\Debug\_006_Login.Form1.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\006_Login\obj\Debug\_006_Login.Properties.Resources.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\006_Login\obj\Debug\006_Login.csproj.GenerateResource.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\006_Login\obj\Debug\006_Login.csproj.CoreCompileInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\006_Login\obj\Debug\006_Login.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\006_Login\obj\Debug\006_Login.pdb

@@ -1,0 +1,10 @@
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\005_BMIForm v1.0\bin\Debug\005_BMIForm v1.0.exe.config
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\005_BMIForm v1.0\bin\Debug\005_BMIForm v1.0.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\005_BMIForm v1.0\bin\Debug\005_BMIForm v1.0.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\005_BMIForm v1.0\obj\Debug\005_BMIForm v1.0.csproj.AssemblyReference.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\005_BMIForm v1.0\obj\Debug\_005_BMIForm_v1._0.Form1.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\005_BMIForm v1.0\obj\Debug\_005_BMIForm_v1._0.Properties.Resources.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\005_BMIForm v1.0\obj\Debug\005_BMIForm v1.0.csproj.GenerateResource.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\005_BMIForm v1.0\obj\Debug\005_BMIForm v1.0.csproj.CoreCompileInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\005_BMIForm v1.0\obj\Debug\005_BMIForm v1.0.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\005_BMIForm v1.0\obj\Debug\005_BMIForm v1.0.pdb
