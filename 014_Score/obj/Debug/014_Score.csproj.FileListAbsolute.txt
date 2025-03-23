@@ -1,0 +1,10 @@
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\014_Score\bin\Debug\014_Score.exe.config
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\014_Score\bin\Debug\014_Score.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\014_Score\bin\Debug\014_Score.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\014_Score\obj\Debug\014_Score.csproj.AssemblyReference.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\014_Score\obj\Debug\_014_Score.Form1.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\014_Score\obj\Debug\_014_Score.Properties.Resources.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\014_Score\obj\Debug\014_Score.csproj.GenerateResource.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\014_Score\obj\Debug\014_Score.csproj.CoreCompileInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\014_Score\obj\Debug\014_Score.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\014_Score\obj\Debug\014_Score.pdb
