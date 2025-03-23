@@ -1,0 +1,10 @@
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\010_LabelControl\bin\Debug\010_LabelControl.exe.config
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\010_LabelControl\bin\Debug\010_LabelControl.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\010_LabelControl\bin\Debug\010_LabelControl.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\010_LabelControl\obj\Debug\010_LabelControl.csproj.AssemblyReference.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\010_LabelControl\obj\Debug\_010_LabelControl.Form1.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\010_LabelControl\obj\Debug\_010_LabelControl.Properties.Resources.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\010_LabelControl\obj\Debug\010_LabelControl.csproj.GenerateResource.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\010_LabelControl\obj\Debug\010_LabelControl.csproj.CoreCompileInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\010_LabelControl\obj\Debug\010_LabelControl.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\010_LabelControl\obj\Debug\010_LabelControl.pdb

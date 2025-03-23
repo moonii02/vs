@@ -1,0 +1,10 @@
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\011_CheckBox\bin\Debug\011_CheckBox.exe.config
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\011_CheckBox\bin\Debug\011_CheckBox.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\011_CheckBox\bin\Debug\011_CheckBox.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\011_CheckBox\obj\Debug\011_CheckBox.csproj.AssemblyReference.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\011_CheckBox\obj\Debug\_011_CheckBox.Form1.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\011_CheckBox\obj\Debug\_011_CheckBox.Properties.Resources.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\011_CheckBox\obj\Debug\011_CheckBox.csproj.GenerateResource.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\011_CheckBox\obj\Debug\011_CheckBox.csproj.CoreCompileInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\011_CheckBox\obj\Debug\011_CheckBox.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\011_CheckBox\obj\Debug\011_CheckBox.pdb

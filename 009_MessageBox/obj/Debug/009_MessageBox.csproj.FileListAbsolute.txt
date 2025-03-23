@@ -1,0 +1,10 @@
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\009_MessageBox\bin\Debug\009_MessageBox.exe.config
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\009_MessageBox\bin\Debug\009_MessageBox.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\009_MessageBox\bin\Debug\009_MessageBox.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\009_MessageBox\obj\Debug\009_MessageBox.csproj.AssemblyReference.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\009_MessageBox\obj\Debug\_009_MessageBox.Form1.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\009_MessageBox\obj\Debug\_009_MessageBox.Properties.Resources.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\009_MessageBox\obj\Debug\009_MessageBox.csproj.GenerateResource.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\009_MessageBox\obj\Debug\009_MessageBox.csproj.CoreCompileInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\009_MessageBox\obj\Debug\009_MessageBox.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\009_MessageBox\obj\Debug\009_MessageBox.pdb

@@ -1,0 +1,10 @@
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\008_Basic\bin\Debug\008_Basic.exe.config
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\008_Basic\bin\Debug\008_Basic.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\008_Basic\bin\Debug\008_Basic.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\008_Basic\obj\Debug\008_Basic.csproj.AssemblyReference.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\008_Basic\obj\Debug\_008_Basic.Form1.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\008_Basic\obj\Debug\_008_Basic.Properties.Resources.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\008_Basic\obj\Debug\008_Basic.csproj.GenerateResource.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\008_Basic\obj\Debug\008_Basic.csproj.CoreCompileInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\008_Basic\obj\Debug\008_Basic.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\008_Basic\obj\Debug\008_Basic.pdb
