@@ -1,0 +1,10 @@
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\015_GradeCal\bin\Debug\015_GradeCal.exe.config
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\015_GradeCal\bin\Debug\015_GradeCal.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\015_GradeCal\bin\Debug\015_GradeCal.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\015_GradeCal\obj\Debug\015_GradeCal.csproj.AssemblyReference.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\015_GradeCal\obj\Debug\_015_GradeCal.Form1.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\015_GradeCal\obj\Debug\_015_GradeCal.Properties.Resources.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\015_GradeCal\obj\Debug\015_GradeCal.csproj.GenerateResource.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\015_GradeCal\obj\Debug\015_GradeCal.csproj.CoreCompileInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\015_GradeCal\obj\Debug\015_GradeCal.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\015_GradeCal\obj\Debug\015_GradeCal.pdb

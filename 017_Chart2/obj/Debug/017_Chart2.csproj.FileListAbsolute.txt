@@ -1,0 +1,10 @@
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\017_Chart2\bin\Debug\017_Chart2.exe.config
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\017_Chart2\bin\Debug\017_Chart2.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\017_Chart2\bin\Debug\017_Chart2.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\017_Chart2\obj\Debug\017_Chart2.csproj.AssemblyReference.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\017_Chart2\obj\Debug\_017_Chart2.Form1.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\017_Chart2\obj\Debug\_017_Chart2.Properties.Resources.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\017_Chart2\obj\Debug\017_Chart2.csproj.GenerateResource.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\017_Chart2\obj\Debug\017_Chart2.csproj.CoreCompileInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\017_Chart2\obj\Debug\017_Chart2.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\017_Chart2\obj\Debug\017_Chart2.pdb
