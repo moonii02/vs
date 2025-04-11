@@ -1,0 +1,10 @@
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\019_DClock\bin\Debug\019_DClock.exe.config
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\019_DClock\bin\Debug\019_DClock.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\019_DClock\bin\Debug\019_DClock.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\019_DClock\obj\Debug\019_DClock.csproj.AssemblyReference.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\019_DClock\obj\Debug\_019_DClock.Form1.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\019_DClock\obj\Debug\_019_DClock.Properties.Resources.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\019_DClock\obj\Debug\019_DClock.csproj.GenerateResource.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\019_DClock\obj\Debug\019_DClock.csproj.CoreCompileInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\019_DClock\obj\Debug\019_DClock.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\019_DClock\obj\Debug\019_DClock.pdb
