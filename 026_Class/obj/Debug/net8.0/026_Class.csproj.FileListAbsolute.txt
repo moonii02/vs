@@ -1,0 +1,14 @@
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\026_Class\bin\Debug\net8.0\026_Class.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\026_Class\bin\Debug\net8.0\026_Class.deps.json
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\026_Class\bin\Debug\net8.0\026_Class.runtimeconfig.json
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\026_Class\bin\Debug\net8.0\026_Class.dll
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\026_Class\bin\Debug\net8.0\026_Class.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\026_Class\obj\Debug\net8.0\026_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\026_Class\obj\Debug\net8.0\026_Class.AssemblyInfoInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\026_Class\obj\Debug\net8.0\026_Class.AssemblyInfo.cs
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\026_Class\obj\Debug\net8.0\026_Class.csproj.CoreCompileInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\026_Class\obj\Debug\net8.0\026_Class.dll
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\026_Class\obj\Debug\net8.0\refint\026_Class.dll
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\026_Class\obj\Debug\net8.0\026_Class.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\026_Class\obj\Debug\net8.0\026_Class.genruntimeconfig.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\026_Class\obj\Debug\net8.0\ref\026_Class.dll

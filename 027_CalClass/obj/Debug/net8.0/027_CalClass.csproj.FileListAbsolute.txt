@@ -1,0 +1,14 @@
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\027_CalClass\bin\Debug\net8.0\027_CalClass.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\027_CalClass\bin\Debug\net8.0\027_CalClass.deps.json
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\027_CalClass\bin\Debug\net8.0\027_CalClass.runtimeconfig.json
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\027_CalClass\bin\Debug\net8.0\027_CalClass.dll
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\027_CalClass\bin\Debug\net8.0\027_CalClass.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\027_CalClass\obj\Debug\net8.0\027_CalClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\027_CalClass\obj\Debug\net8.0\027_CalClass.AssemblyInfoInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\027_CalClass\obj\Debug\net8.0\027_CalClass.AssemblyInfo.cs
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\027_CalClass\obj\Debug\net8.0\027_CalClass.csproj.CoreCompileInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\027_CalClass\obj\Debug\net8.0\027_CalClass.dll
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\027_CalClass\obj\Debug\net8.0\refint\027_CalClass.dll
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\027_CalClass\obj\Debug\net8.0\027_CalClass.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\027_CalClass\obj\Debug\net8.0\027_CalClass.genruntimeconfig.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\027_CalClass\obj\Debug\net8.0\ref\027_CalClass.dll

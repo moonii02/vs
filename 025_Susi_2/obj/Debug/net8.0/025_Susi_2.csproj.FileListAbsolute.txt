@@ -1,0 +1,14 @@
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\025_Susi_2\bin\Debug\net8.0\025_Susi_2.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\025_Susi_2\bin\Debug\net8.0\025_Susi_2.deps.json
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\025_Susi_2\bin\Debug\net8.0\025_Susi_2.runtimeconfig.json
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\025_Susi_2\bin\Debug\net8.0\025_Susi_2.dll
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\025_Susi_2\bin\Debug\net8.0\025_Susi_2.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\025_Susi_2\obj\Debug\net8.0\025_Susi_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\025_Susi_2\obj\Debug\net8.0\025_Susi_2.AssemblyInfoInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\025_Susi_2\obj\Debug\net8.0\025_Susi_2.AssemblyInfo.cs
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\025_Susi_2\obj\Debug\net8.0\025_Susi_2.csproj.CoreCompileInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\025_Susi_2\obj\Debug\net8.0\025_Susi_2.dll
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\025_Susi_2\obj\Debug\net8.0\refint\025_Susi_2.dll
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\025_Susi_2\obj\Debug\net8.0\025_Susi_2.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\025_Susi_2\obj\Debug\net8.0\025_Susi_2.genruntimeconfig.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\025_Susi_2\obj\Debug\net8.0\ref\025_Susi_2.dll
