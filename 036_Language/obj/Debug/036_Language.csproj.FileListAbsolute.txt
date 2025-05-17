@@ -1,0 +1,15 @@
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\036_Language\bin\Debug\036_Language.exe.config
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\036_Language\bin\Debug\036_Language.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\036_Language\bin\Debug\036_Language.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\036_Language\obj\Debug\036_Language.csproj.AssemblyReference.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\036_Language\obj\Debug\MainWindow.g.cs
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\036_Language\obj\Debug\App.g.cs
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\036_Language\obj\Debug\036_Language_MarkupCompile.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\036_Language\obj\Debug\036_Language_MarkupCompile.lref
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\036_Language\obj\Debug\MainWindow.baml
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\036_Language\obj\Debug\036_Language.g.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\036_Language\obj\Debug\_036_Language.Properties.Resources.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\036_Language\obj\Debug\036_Language.csproj.GenerateResource.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\036_Language\obj\Debug\036_Language.csproj.CoreCompileInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\036_Language\obj\Debug\036_Language.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\036_Language\obj\Debug\036_Language.pdb
