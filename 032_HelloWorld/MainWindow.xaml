@@ -1,0 +1,17 @@
+﻿<Window x:Class="_032_HelloWorld.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_032_HelloWorld"
+        mc:Ignorable="d"
+        Title="Hello world!" Height="450" Width="600">
+    <Grid x:Name="grid1" Background="DarkViolet">
+        <TextBlock HorizontalAlignment="Center" 
+                   VerticalAlignment="Center"
+                   FontSize="65" MouseDown="TextBlock_MouseDown">
+            안녕 양희상
+        </TextBlock>
+        
+    </Grid>
+</Window>

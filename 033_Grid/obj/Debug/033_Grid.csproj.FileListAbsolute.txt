@@ -1,0 +1,15 @@
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\033_Grid\bin\Debug\033_Grid.exe.config
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\033_Grid\bin\Debug\033_Grid.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\033_Grid\bin\Debug\033_Grid.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\033_Grid\obj\Debug\033_Grid.csproj.AssemblyReference.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\033_Grid\obj\Debug\MainWindow.g.cs
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\033_Grid\obj\Debug\App.g.cs
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\033_Grid\obj\Debug\033_Grid_MarkupCompile.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\033_Grid\obj\Debug\033_Grid_MarkupCompile.lref
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\033_Grid\obj\Debug\MainWindow.baml
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\033_Grid\obj\Debug\033_Grid.g.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\033_Grid\obj\Debug\_033_Grid.Properties.Resources.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\033_Grid\obj\Debug\033_Grid.csproj.GenerateResource.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\033_Grid\obj\Debug\033_Grid.csproj.CoreCompileInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\033_Grid\obj\Debug\033_Grid.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\033_Grid\obj\Debug\033_Grid.pdb

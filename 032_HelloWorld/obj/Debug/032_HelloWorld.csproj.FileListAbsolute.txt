@@ -1,0 +1,15 @@
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\032_HelloWorld\bin\Debug\032_HelloWorld.exe.config
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\032_HelloWorld\bin\Debug\032_HelloWorld.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\032_HelloWorld\bin\Debug\032_HelloWorld.pdb
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\032_HelloWorld\obj\Debug\032_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\032_HelloWorld\obj\Debug\MainWindow.g.cs
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\032_HelloWorld\obj\Debug\App.g.cs
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\032_HelloWorld\obj\Debug\032_HelloWorld_MarkupCompile.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\032_HelloWorld\obj\Debug\032_HelloWorld_MarkupCompile.lref
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\032_HelloWorld\obj\Debug\MainWindow.baml
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\032_HelloWorld\obj\Debug\032_HelloWorld.g.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\032_HelloWorld\obj\Debug\_032_HelloWorld.Properties.Resources.resources
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\032_HelloWorld\obj\Debug\032_HelloWorld.csproj.GenerateResource.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\032_HelloWorld\obj\Debug\032_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\032_HelloWorld\obj\Debug\032_HelloWorld.exe
+C:\Users\sm021\source\repos\Visual_Programming_2025_1\032_HelloWorld\obj\Debug\032_HelloWorld.pdb
